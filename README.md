@@ -4,7 +4,7 @@ This repository consists of capstone project from Google Data Analytics Professi
 
 ## Cyclistic: How does a bike-share company navigate speedy success?
 
-First one, a bike sharing company, Cyclistic, is looking for usage pattern between the membership types of its users, in order to make more profit to encourage casual users to convert into annual membership subscription. Details of this analysis report can be found [here](./Google_DA_Capstone_Cyclistic_Case_Study/Cyclistic_How_does_bike-share_company_navigate_speedy_success.md).
+First one, a bike sharing company, Cyclistic, is looking for usage pattern between the membership types of its users, in order to make more profit to encourage casual users to convert into annual membership subscription. Details of this analysis report can be found [here].
 
 
 ## Certificate of Completion
