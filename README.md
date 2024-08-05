@@ -1,9 +1,11 @@
-# Capstone-Cyclist-Analysis
-Google Data Analytics Professional Certificate Capstone Project
-This repository consists of capstone project from Google Data Analytics Professional Certificate Course offered by Coursera. These projects are form "Track 1" of the module i.e. these offer specific data sets to analyze. Currently, two different scenario/case studies have been analyzed here.
+# Google Data Analytics Professional Certificate Capstone Project
 
-<B>Cyclistic: How does a bike-share company navigate speedy success?</B>
+This repository consists of capstone project from Google Data Analytics Professional Certificate Course offered by Coursera. These projects are form "Track 1" of the module i.e. these offer specific data sets to analyze. Currently, two different scenario/case studies have been analyzed here. 
 
-First one, a bike sharing company, Cyclistic, is looking for usage pattern between the membership types of its users, in order to make more profit to encourage casual users to convert into annual membership subscription. Details of this analysis report can be found here.
+## Cyclistic: How does a bike-share company navigate speedy success?
 
-Certificate of Completion
+First one, a bike sharing company, Cyclistic, is looking for usage pattern between the membership types of its users, in order to make more profit to encourage casual users to convert into annual membership subscription. Details of this analysis report can be found [here](./Google_DA_Capstone_Cyclistic_Case_Study/Cyclistic_How_does_bike-share_company_navigate_speedy_success.md).
+
+
+## Certificate of Completion
+
