@@ -65,6 +65,7 @@ Open new workbook
   Else if Ride time is less than equals to 30 : 10 to 30
   Else if Ride time is less than equals to 60 : 30 to 60
   Else over 60
+  
   ![image](https://github.com/user-attachments/assets/93b1e35a-8a9c-4569-98f5-f5a7b47ed6fd)
 
   
