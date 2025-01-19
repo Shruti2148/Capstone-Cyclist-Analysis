@@ -41,3 +41,31 @@ To identify how do annual members and casual rider s use Cyclistic differently.
 -   Data has been protected under data-privacy license mentioned here: [license](https://ride.divvybikes.com/data-license-agreement). This license states that this data has been provided "As is" as per bikeshares sole discretion. So reliability of the data can be vetted eventhough this has been provided by third party.
 
 -   This data cannot be connected to the individual riders and their credit card numbers as unique rider ID has been used to record ride data.
+  
+### Observation
+- There are 13 columns in the data files. These are: ride_id, rideable_type, started_at, ended_at, start_station_name, end_station_name, start_station_id, end_station_id, start_station, start_lat, start_lng, end_lat, end_lng, member_casual
+
+- started_at and ended_at columns contains date-time data and formatted as YYYY-MM-DD HH:MM:SS format.
+
+- start_station_id and end_station_id has discrepancy. Some of the IDs contain alphabets at the beginning (12 char length) and some contains only numbers (variable length 3-8).
+
+- Although some of the csv files did not have start_station_name, start_station_id, end_station_name, end_station_id; these rows contain latitude and longitude data. This can be used to fill these empty values.
+
+- member_casual column contains 2 types of membership data: member or casual.
+  
+## Step 3: Processing Data (Cleaning and Transformation)
+Open new workbook
+- Data -> Get Data ->From file-> From folder.
+- Combined all data
+- Remove ride_id,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng.
+- added couple of columns such as Month, Day, Hour and Ride Time = (ended_at - started_at)*24*60 -- this data gives us a minutes.
+- Add additional Custom column
+  --- use conditional formula:
+  If Ride Time is less than or equals to 10 : Under 10
+  Else if Ride time is less than equals to 30 : 10 to 30
+  Else if Ride time is less than equals to 60 : 30 to 60
+  Else over 60
+  ![image](https://github.com/user-attachments/assets/93b1e35a-8a9c-4569-98f5-f5a7b47ed6fd)
+
+  
+- 
