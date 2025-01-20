@@ -65,8 +65,37 @@ Open new workbook
   Else if Ride time is less than equals to 30 : 10 to 30
   Else if Ride time is less than equals to 60 : 30 to 60
   Else over 60
-  
+
+  - This is the data what we got.
   ![image](https://github.com/user-attachments/assets/93b1e35a-8a9c-4569-98f5-f5a7b47ed6fd)
+
+## Step 4: Analysis
+I've use Pivot Table for analysis. 
+1. Total Count by Month
+
+![image](https://github.com/user-attachments/assets/60f33734-67bf-4f6d-bb69-fad5e8c4efa4)
+
+2. Casual_Member by Month
+   
+   ![image](https://github.com/user-attachments/assets/c97bae4b-a15f-4898-9eb4-04c0bfdc5736)
+
+3. Casual's vs Member's by Month
+
+   ![image](https://github.com/user-attachments/assets/952f5342-0c4b-45a2-9920-cbdfbbe0314d)
+
+4. Casual's vs Member's by Day
+
+   ![image](https://github.com/user-attachments/assets/f9b41a72-6bbe-4051-9855-6c07d155631f)
+
+5. Data showing with Custom time frame.
+
+   ![image](https://github.com/user-attachments/assets/1645b699-cdd9-4ac7-a0c9-d553ed800162)
+
+
+
+
+
+
 
   
 
