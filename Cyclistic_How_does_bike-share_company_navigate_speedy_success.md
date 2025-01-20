@@ -71,25 +71,39 @@ Open new workbook
 
 ## Step 4: Analysis
 I've use Pivot Table for analysis. 
-1. Total Count by Month
+**1. Total Count by Month**
 
 ![image](https://github.com/user-attachments/assets/60f33734-67bf-4f6d-bb69-fad5e8c4efa4)
 
-2. Casual_Member by Month
+**2. Casual_Member by Month**
    
    ![image](https://github.com/user-attachments/assets/c97bae4b-a15f-4898-9eb4-04c0bfdc5736)
 
-3. Casual's vs Member's by Month
+**3. Casual's vs Member's by Month**
 
    ![image](https://github.com/user-attachments/assets/952f5342-0c4b-45a2-9920-cbdfbbe0314d)
 
-4. Casual's vs Member's by Day
+**4. Casual's vs Member's by Day**
 
    ![image](https://github.com/user-attachments/assets/f9b41a72-6bbe-4051-9855-6c07d155631f)
 
-5. Data showing with Custom time frame.
+**5. Data showing with Custom time frame.**
 
    ![image](https://github.com/user-attachments/assets/1645b699-cdd9-4ac7-a0c9-d553ed800162)
+
+**6. Daily Ride Type Casual Vs Member**
+
+  ![image](https://github.com/user-attachments/assets/5841217d-5bda-4bdd-a714-0b69f93aea52)
+
+
+### Conclusion
+In conclusion, there are several features / patterns can be observed from this data set. As per these observations following recommendations can be considered:
+
+- During summer the number of bike rides by casual riders are more than the annual members. Moreover, average bike riding time is greater in case of casual riders. This can be a good opportunity to offer discounts to become annual members with cheap rides. The longer the subscription the lower will be the down payment.
+
+- In order to attract working casual riders to use bikes for their daily ride to the workplace, special discounts can be offered to them for using electric bikes so that they can reach their workplace quickly without having to face hassle of busy public transport as well as saving some time in the morning and in the evening to spare.
+
+Annual members can get discounts for riding average distance traveled by a casual member distance which can stir interest among the casual members to get annual subscription.
 
 
 
