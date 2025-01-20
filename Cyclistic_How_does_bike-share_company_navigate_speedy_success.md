@@ -67,7 +67,8 @@ Open new workbook
   Else over 60
 
   - This is the data what we got.
-  ![image](https://github.com/user-attachments/assets/93b1e35a-8a9c-4569-98f5-f5a7b47ed6fd)
+
+ ![image](https://github.com/user-attachments/assets/93b1e35a-8a9c-4569-98f5-f5a7b47ed6fd)
 
 ## Step 4: Analysis
 I've use Pivot Table for analysis. 
