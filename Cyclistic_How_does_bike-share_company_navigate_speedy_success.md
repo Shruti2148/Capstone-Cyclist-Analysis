@@ -98,9 +98,8 @@ I've use Pivot Table for analysis.
 
 
   ## Step 5: Dashboard Using Excel
-  ![image](https://github.com/user-attachments/assets/163cfca5-7bcf-4aad-bd43-cb4e792cfbca)
-
   
+ ![Screenshot 2025-01-31 214537](https://github.com/user-attachments/assets/e8cac6e6-3a89-435f-bd18-d55c2554422e)
 
 ### Conclusion
 In conclusion, there are several features / patterns can be observed from this data set. As per these observations following recommendations can be considered:
